@@ -1,0 +1,30 @@
+baseURL = "https://philipgreco.com/"
+languageCode = "en-us"
+title = "Philip Greco"
+theme = "hugo-theme-hello-friend-ng"
+
+paginate = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  themeColor = "auto"
+
+  homeSubtitle = ""
+
+  [params.logo]
+    logoText      = "Philip Greco"
+    logoHomeLink  = "/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
