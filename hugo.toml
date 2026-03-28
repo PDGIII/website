@@ -1,7 +1,10 @@
 baseURL = "https://philipgreco.com/"
+title   = "Philip Greco"
 languageCode = "en-us"
-title = "Philip Greco"
 theme = "hugo-theme-hello-friend-ng"
+
+enableRobotsTXT = true
+enableEmoji     = true
 
 [pagination]
   pagerSize = 10
@@ -10,22 +13,54 @@ theme = "hugo-theme-hello-friend-ng"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateformNumTime = "2006-01-02 15:04"
 
-  themeColor = "auto"
+  description = "Philip Greco - DevOps Engineer"
 
-  homeSubtitle = ""
+  homeSubtitle = "DevOps Engineer"
+
+  enableThemeToggle    = true
+  enableSharingButtons = false
+  enableReadingTime    = true
+
+  [params.author]
+    name = "Philip Greco"
 
   [params.logo]
-    logoText      = "Philip Greco"
-    logoHomeLink  = "/"
+    logoMark     = ">"
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+
+  [params.footer]
+    copyright = true
+    author    = true
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:philip.d.greco@gmail.com"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/philip-greco-662a0558"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/PDGIII"
+
+[languages]
+  [languages.en]
+    weight    = 1
+    copyright = "Philip Greco"
+  [languages.en.params]
+    subtitle = "DevOps Engineer"
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about"
+    url        = "about/"
+
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/posts"
+    url        = "posts/"
