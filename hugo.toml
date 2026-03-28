@@ -15,9 +15,9 @@ enableEmoji     = true
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  description = "Philip Greco - DevOps Engineer"
+  description = "Philip Greco - Sr. DevOps Engineer"
 
-  homeSubtitle = "DevOps Engineer"
+  homeSubtitle = "Sr. DevOps Engineer"
 
   enableThemeToggle    = true
   enableSharingButtons = false
@@ -52,7 +52,7 @@ enableEmoji     = true
     weight    = 1
     copyright = "Philip Greco"
   [languages.en.params]
-    subtitle = "DevOps Engineer"
+    subtitle = "Sr. DevOps Engineer"
 
 [menu]
   [[menu.main]]
