@@ -26,10 +26,16 @@ enableEmoji     = true
   [params.author]
     name = "Philip Greco"
 
+  [params.portrait]
+    path     = "/img/AI_Yoda.png"
+    alt      = "Philip Greco"
+    maxWidth = "150px"
+
   [params.logo]
-    logoMark     = ">"
-    logoText     = "$ cd /home/"
-    logoHomeLink = "/"
+    logoMark          = ">"
+    logoText          = "$ cd /home/"
+    logoHomeLink      = "/"
+    logoCursorColor   = "#9b59b6"
 
   [params.footer]
     copyright = true
