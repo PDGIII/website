@@ -60,13 +60,8 @@ enableEmoji     = true
   [languages.en.params]
     subtitle = "Sr. DevOps Engineer"
 
-# [menu]
-#   [[menu.main]]
-#     identifier = "about"
-#     name       = "About"
-#     url        = "about/"
-#
-#   [[menu.main]]
-#     identifier = "posts"
-#     name       = "Posts"
-#     url        = "posts/"
+[menu]
+  [[menu.main]]
+    identifier = "weather"
+    name       = "Weather"
+    url        = "https://weather.philipgreco.com/"
