@@ -16,6 +16,7 @@ enableEmoji     = true
   dateformNumTime = "2006-01-02 15:04"
 
   description = "Philip Greco - Sr. DevOps Engineer"
+  images      = ["/img/AI_Yoda.png"]
 
   homeSubtitle = "Sr. DevOps Engineer"
 
