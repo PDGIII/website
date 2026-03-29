@@ -38,8 +38,8 @@ enableEmoji     = true
     logoCursorColor   = "#9b59b6"
 
   [params.footer]
-    copyright = true
-    author    = true
+    copyright = false
+    author    = false
 
   [[params.social]]
     name = "email"
