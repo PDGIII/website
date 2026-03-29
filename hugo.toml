@@ -32,8 +32,8 @@ enableEmoji     = true
     maxWidth = "150px"
 
   [params.logo]
-    logoMark          = ">"
-    logoText          = "$ cd /home/"
+    logoMark          = "p@site ➜ "
+    logoText          = " /home"
     logoHomeLink      = "/"
     logoCursorColor   = "#9b59b6"
 
