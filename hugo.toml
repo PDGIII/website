@@ -63,5 +63,5 @@ enableEmoji     = true
 [menu]
   [[menu.main]]
     identifier = "weather"
-    name       = "Weather"
+    name       = "⛅"
     url        = "https://weather.philipgreco.com/"
