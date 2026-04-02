@@ -64,5 +64,10 @@ enableEmoji     = true
 [menu]
   [[menu.main]]
     identifier = "weather"
-    name       = "⛅"
+    name       = "[⛅]"
     url        = "https://weather.philipgreco.com/"
+
+  [[menu.main]]
+    identifier = "whatsmyip"
+    name       = "[myip]"
+    url        = "https://philipgreco.com/ip"
