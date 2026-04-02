@@ -69,5 +69,5 @@ enableEmoji     = true
 
   [[menu.main]]
     identifier = "whatsmyip"
-    name       = "[myip]"
+    name       = "[my IP]"
     url        = "https://philipgreco.com/ip"
