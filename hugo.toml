@@ -66,13 +66,16 @@ enableEmoji     = true
     identifier = "weather"
     name       = "[⛅]"
     url        = "https://weather.philipgreco.com/"
+    weight     = 1
 
   [[menu.main]]
     identifier = "whatsmyip"
     name       = "[my IP]"
     url        = "https://philipgreco.com/ip"
+    weight     = 2
 
   [[menu.main]]
     identifier = "resume"
     name       = "[Resume]"
     url        = "https://pdgiii.github.io/resume/"
+    weight     = 3
