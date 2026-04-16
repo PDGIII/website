@@ -71,3 +71,8 @@ enableEmoji     = true
     identifier = "whatsmyip"
     name       = "[my IP]"
     url        = "https://philipgreco.com/ip"
+
+  [[menu.main]]
+    identifier = "resume"
+    name       = "[Resume]"
+    url        = "https://pdgiii.github.io/resume/"
