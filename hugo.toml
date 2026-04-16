@@ -74,5 +74,5 @@ enableEmoji     = true
 
   [[menu.main]]
     identifier = "c-resume"
-    name       = "[Resume]"
+    name       = "[resume]"
     url        = "https://pdgiii.github.io/resume/"
